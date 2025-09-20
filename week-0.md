@@ -33,9 +33,10 @@ automated physical design and chip layout tasks.  - \*\*iverilog:\*\*
 Installed for simulation and verification of Verilog code.  - \*\*RISC-V
 GNU Toolchain:\*\* Installed for compiling and running RISC-V programs.
 
-\#### GTKWave Installation \& Verification ```bash gtkwave -v ```
-!\[GTKWave Version](images/11111111.png) !\[GTKWave
-GUI](images/yosys\_ss.png)
+### GTKWave Installation & Verification  
+```bash
+gtkwave -v
+
 
 \#### Icarus Verilog (iverilog) Verification ```bash iverilog -v
 ``` !\[Icarus Verilog](images/22222222.png)
